@@ -1,7 +1,5 @@
 <div align="center">
 
-### Hi! I'm Konstantina Stoikou 👋
-
-I
+### *Hi!* I'm Konstantina Stoikou 👋
 
 </div>
