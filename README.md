@@ -11,3 +11,13 @@
 
 ![Metrics](https://github.com/KonstantinaStoikou/KonstantinaStoikou/blob/master/github-metrics.svg)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KonstantinaStoikou&theme=black-ice&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KonstantinaStoikou)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=KonstantinaStoikou)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
