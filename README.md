@@ -8,3 +8,6 @@
 - pursuing a master's degree in Data Science and Information Technologies 🎓
 - learning about artificial intelligence and machine learning 🤖
 - actively seeking new job opportunities👩‍💻
+
+![Metrics](https://github.com/KonstantinaStoikou/KonstantinaStoikou/blob/master/github-metrics.svg)
+
