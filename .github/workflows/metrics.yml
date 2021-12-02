@@ -27,7 +27,7 @@ jobs:
           
           plugin_languages: yes
           plugin_languages_sections: recently-used
-          plugin_languages_recent_days: 600
+          plugin_languages_recent_days: 300     # Limit recently used stats to last week
           
           plugin_introduction: yes
           
@@ -41,10 +41,10 @@ jobs:
           plugin_topics_mode: icons    # Display icons instead of labels
           plugin_topics_limit: 0       # Disable limitations
           
-          plugin_habits: yes
-          plugin_habits_from: 200       # Use 200 events to compute habits
-          plugin_habits_days: 600        # Keep only events from last 14 days
-          plugin_habits_charts: yes     # Display charts section
-          plugin_habits_trim: yes       # Trim unused hours on daily chart
-          config_timezone: Europe/Geneva 
+#           plugin_habits: yes
+#           plugin_habits_from: 200       # Use 200 events to compute habits
+#           plugin_habits_days: 600        # Keep only events from last 14 days
+#           plugin_habits_charts: yes     # Display charts section
+#           plugin_habits_trim: yes       # Trim unused hours on daily chart
+#           config_timezone: Europe/Geneva 
         
