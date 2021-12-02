@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src='https://capsule-render.vercel.app/api?type=waving&section=header&height=300&reversal=true&color=gradient&text=I%27m%20Konstantina%20Stoikou&desc=and%20I%27m%20a%20software%20developer.&fontAlignY=35&customColorList=4'/>
+<img src='https://capsule-render.vercel.app/api?type=waving&section=header&height=300&reversal=true&color=gradient&text=I%27m%20Konstantina%20Stoikou&desc=and%20I%27m%20a%20software%20developer.&fontAlignY=35&customColorList=2'/>
   
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there! Welcome to my Github profile! 
 
