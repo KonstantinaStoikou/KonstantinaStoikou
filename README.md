@@ -12,7 +12,8 @@
 ### How to contact me:
   <div>
     <img src='https://cdn.pixabay.com/photo/2018/02/14/03/25/envelope-3152053_960_720.png' width='20' height='15 alt='Email img'/> Email:  <a 'mailto: konstantinastoikou1@gmail.com'>konstantinastoikou1@gmail.com</a></br>
-    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' width='20' height='20 alt='Linkedin img'/> Linkedin: <a href='https://www.linkedin.com/in/konstantina-stoikou/'>www.linkedin.com/in/konstantina-stoikou</a>
+    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png' width='20' height='20 alt='Linkedin img'/> Linkedin: <a href='https://www.linkedin.com/in/konstantina-stoikou/'>linkedin.com/in/konstantina-stoikou</a></br>
+    <img src='https://www.pngall.com/wp-content/uploads/8/Globe-Internet-PNG-Picture.png' width='20' height='20 alt='Website img'/> Website: <a href='https://konstantinastoikou.github.io/'>konstantinastoikou.github.io</a>
   </div>
 
 
