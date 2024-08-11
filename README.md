@@ -7,7 +7,6 @@
 ### What I am currently working on:
   <li> pursuing a master's degree in Data Science and Information Technologies 🎓 <br/></li>
   <li> learning about artificial intelligence and machine learning 🤖 <br/></li>
-  <li> actively seeking new job opportunities👩‍💻 <br/></li>
   
 ### How to contact me:
   <div>
